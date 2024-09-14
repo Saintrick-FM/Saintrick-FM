@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saintrick-FM
-- 👀 I’m interested in Django and Vue.js
-- 🌱 I’m currently learning Django Rest Framefork and Nuxt.js
-- 💞️ I’m looking to collaborate on Vue.js/Django projects
+- 👀 I’m interested in Javascript technologies, front and back
+- 🌱 I’m currently building apps with Next.js, React and Headless CMS (Strapi or Directus)
+- 💞️ I’m looking to collaborate on JS projects
 - 📫 How to reach me ...
 
 <!---
